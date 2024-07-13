@@ -1,7 +1,6 @@
 import React from "react";
 import Hero from "../components/Hero/Hero";
 import NatureVid from "../assets/video/main.mp4";
-import BlogsComp from "../components/Hotels/HotelsCard";
 import Places from "../components/Places/Places";
 import Testimonial from "../components/Testimonial/Testimonial";
 import Banner from "../components/Banner/Banner";
