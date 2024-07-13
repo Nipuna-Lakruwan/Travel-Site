@@ -54,11 +54,11 @@ const Footer = () => {
               <br />
               <div className="flex items-center gap-3 ">
                 <FaLocationArrow />
-                <p>BCI Campus, Negombo</p>
+                <p>Sri Lanka, Colombo</p>
               </div>
               <div className="flex items-center gap-3 mt-3">
                 <FaMobileAlt />
-                <p>+94 12 123 1234</p>
+                <p>+94 71 141 2162</p>
               </div>
               {/* social handles */}
               <div>
@@ -140,7 +140,7 @@ const Footer = () => {
           </div>
           <div>
             <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-              @copyright 2024 All rights reserved || Made by Tech Titans
+              @copyright 2024 All rights reserved || Made by Nipuna Lakruwan
             </div>
           </div>
         </div>
