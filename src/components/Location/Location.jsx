@@ -12,7 +12,7 @@ const Location = () => {
 
           <div className="rounded-xl ">
             <iframe
-              src="https://www.google.com/maps/place/Sri+Lanka/@7.8583503,79.3867713,8z/data=!3m1!4b1!4m6!3m5!1s0x3ae2593cf65a1e9d:0xe13da4b400e2d38c!8m2!3d7.873054!4d80.771797!16zL20vMDZtXzU?entry=ttu"
+              src="https://www.google.com/maps/search/places+to+visit+sri+lanka/@7.8494358,78.0640793,7z/data=!3m1!4b1?entry=ttu"
               width="100%"
               height="360"
               allowfullscreen=""
