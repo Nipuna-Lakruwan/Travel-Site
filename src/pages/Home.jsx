@@ -30,6 +30,7 @@ const Home = () => {
           </video>
           <Hero />
         </div>
+        <Hotels handleOrderPopup={handleOrderPopup} />
         <Places handleOrderPopup={handleOrderPopup} />
         <BannerPic img={BannerImg} />
         <BlogsComp />
